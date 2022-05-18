@@ -1,0 +1,10 @@
+Debug/
+Debug/*
+Release/
+Release/*
+/Test.elf.launch
+/Test.ioc.bak
+*.hex
+*.bak
+*.elf
+*.bin
